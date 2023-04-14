@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Lasstv" tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Filmes e Series",Lasstv
-https://streaming01.zas.media/lasstv/live/chunklist_w1279236273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lasstv" tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Filmes e Series",Lasstv HD
+https://tv02.zas.media:1936/lasstv/lasstv/chunklist_w566626149.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS",SBT HD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H TRAPALHOES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="PROGRAMAS 24 HORAS",24H TRAPALHOES
@@ -12,9 +12,9 @@ https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CrsFzugZSyNPJTVEUCJ9c9VxpX8
 #EXTINF:-1 tvg-id="Tnt Esportes 5" tvg-name="Tnt Esportes 5" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais - Esportes",Tnt Esportes 5
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="Lasstv" tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Canal Variedades",Lasstv
-https://streaming03.zas.media:1936/lasstv/lasstv/chunklist_w1973980502.m3u8
+https://tv02.zas.media:1936/lasstv/lasstv/chunklist_w566626149.m3u8
 #EXTINF:-1 tvg-id="Lasstv" tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Canal Variedades",Lasstv 2
-https://api.mp4.to/static/downloads/d4b52b87011343b9a4203ed6885ab6c6/noticia-channene-a1.m3u8
+https://api3.mp4.to/static/downloads/06eff246-03de-42d2-9dd5-b35a5b328bfc/espaco-da-galera-lasstv-one.m3u8
 #EXTINF:-1 tvg-id="Tnt Esportes 7" tvg-name="Tnt Esportes 7" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais - Esportes",Tnt Esportes 7
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="Canal Mma" tvg-name="Canal Mma" tvg-logo="https://pbs.twimg.com/profile_images/1040380158534971393/ulfd3Hc3_400x400.jpg" group-title="Canais - Esportes",Canal Mma
